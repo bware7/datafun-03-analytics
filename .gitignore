@@ -1,4 +1,5 @@
 # Ignore project virtual environment in the .venv folder
+# I already had .venv/ from previous commit. 
 .venv/
 
 # Ignore Visual Studio Code settings in the .vscode folder

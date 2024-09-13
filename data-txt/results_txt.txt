@@ -1,0 +1,2 @@
+Total Words: 31374
+Unique Words: 10044
